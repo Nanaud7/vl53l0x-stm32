@@ -3,7 +3,6 @@
  * @author	Arnaud C.
  * @date	23.04.2022
  * @brief
- *
  */
 
 /* Define to prevent recursive inclusion ------------------------------------*/
